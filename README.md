@@ -20,7 +20,7 @@ Permite **criar, listar, filtrar, atualizar status** e **inativar (soft delete)*
 ## 🔧 Como executar localmente
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seuusuario/payments-api.git
+   git clone git@github.com:BrenoBTrindade/payments-api.git
    cd payments-api
    ```
 2. Compile e execute:
